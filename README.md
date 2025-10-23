@@ -57,10 +57,16 @@ END
 **MEMORY WINDOW:**
 
 Before execution: D:0x40H:
+
+<img width="953" height="281" alt="Screenshot 2025-10-23 110404" src="https://github.com/user-attachments/assets/6c132e73-52bd-493f-b552-3cc7bd52251f" />
+
 <BR>
 <BR>
 <BR>
 After execution: D:0x40H:
+
+<img width="959" height="298" alt="Screenshot 2025-10-23 110423" src="https://github.com/user-attachments/assets/60987756-a059-43b3-9e1b-930f17184647" />
+
 <BR>
 <BR>
 <BR>
@@ -118,12 +124,18 @@ END
 
 **Before execution:**
 D:0x40H:
+
+<img width="959" height="271" alt="Screenshot 2025-10-23 110018" src="https://github.com/user-attachments/assets/a584fc52-543e-4482-9433-5390ce423141" />
+
 <BR>
 <BR>
 <BR>
 <BR>
 After execution:
 D:0x40H:
+
+<img width="961" height="274" alt="Screenshot 2025-10-23 110030" src="https://github.com/user-attachments/assets/76cf0861-82f6-47ae-9a45-057b73c863b8" />
+
 <BR>
 <BR>
 <BR>
